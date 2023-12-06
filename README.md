@@ -61,24 +61,44 @@ Langkah 1 - Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakuk
 
 Nama Subnet	Rute	Jumlah IP	Netmask
 A1	Fern-Switch4-AppetitRegion-Switch4-LaubHills	1022	/21
+
 A2	Flamme-Switch5-RohrRoad	1001	/22
+
 A3	Himmel-Switch6-SchweMountains	6	/29
+
 A4	Fern-Flamme	2	/30
+
 A5	Flamme-Himmel	2	/30
+
 A6	Flamme-Frieren	2	/30
+
 A7	Frieren-Switch3-LakeKorridor	25	/27
+
 A8	Frieren-Aura	2	/30
+
 A9	Aura-Eisen	2	/30
+
 A10	Eisen-Switch 1-Revolte-Switch1-Richter	3	/29
+
 A11	Eisen-Linie	2	/30
+
 A12	Linie-Lawine	2	/30
+
 A13	Lawine-Switch7-BredtRegion-Switch7-Heiter	31	/26
+
 A14	Heiter-Switch8-Sein-RiegelCanyon	512	/22
+
 A15	Linie-Switch11-GranzChannel	255	/23
+
 A16	Eisen-Lugner	2	/30
+
 A17	Lugner-Switch9-GrobeForest	251	/24
+
 A18	Lugner-Switch10-TurkRegion	1001	/22
+
 A19	Eisen-Switch0-Stark	2	/30
+
 A20	Aura-Denken	2	/30
+
 A21	Denkern-Switch2-RoyalCapital-Switch2-WilleReg	127	/24
 Total		4254	/19
