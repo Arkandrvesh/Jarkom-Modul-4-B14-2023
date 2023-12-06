@@ -103,3 +103,39 @@ A20	Aura-Denken	2	/30
 
 A21	Denkern-Switch2-RoyalCapital-Switch2-WilleReg	127	/24
 Total		4254	/19
+
+Pembagian IP VLSM
+<img width="537" alt="pembagian-ipvlsm" src="https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/aa32f11d-e055-48cb-8720-9323c9a46c6e">
+
+Tree VLSM
+<img width="898" alt="vlsm-revisiTree" src="https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/0d427866-5037-46cf-a841-2cff3c4741ae">
+
+<img width="917" alt="vlsm-revisiTree2" src="https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/8585c7ab-148b-4ee7-a510-fd40efc4feac">
+
+Perhitungan VLSM
+
+<img width="382" alt="hitung-vlsm" src="https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/6a022404-eb53-4a45-b5ac-444d66057aa0">
+
+2. CIDR (Classless Inter Domain Routing)
+
+Classless Inter-Domain Routing merupakan sebuah metode pengalokasian alamat IP dan perutean IP. Internet Engineering Task Force memperkenalkan CIDR pada tahun 1993 untuk mengganti arsitektur pengalamatan dari desain jaringan kelas di internet.
+
+Pembagian IP CIDR
+
+<img width="330" alt="pembagian-ipcidr" src="https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/dff1e897-74b9-4591-bba6-b8a0905164c3">
+
+Penggabungan CIDR
+<img width="388" alt="penggabungan-cidr" src="https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/96281824-bfee-4481-8aa8-7485c53d0c74">
+
+<img width="385" alt="penggabungan-cidr2" src="https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/4a4304a1-5273-4297-98ff-2dfd66244829">
+<img width="382" alt="penggabungan-cidr3" src="https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/65677012-1d28-43f4-903e-7289c39d8a78">
+
+Foto topologi penggabungan
+![tempsnip - Copy (8) - Copy - Copy](https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/e6d20299-6f11-436a-87d4-d30a6dd9b455)
+
+
+Tree CIDR
+<img width="319" alt="CIDR_revisi" src="https://github.com/Arkandrvesh/Jarkom-Modul-4-B14-2023/assets/116497822/d9a936b6-c9c8-4945-8c4b-f2cc9c7d8d64">
+
+
+
