@@ -60,6 +60,7 @@ Langkah 1 - Tentukan jumlah alamat IP yang dibutuhkan oleh tiap subnet dan lakuk
 
 
 Nama Subnet	Rute	Jumlah IP	Netmask
+
 A1	Fern-Switch4-AppetitRegion-Switch4-LaubHills	1022	/21
 
 A2	Flamme-Switch5-RohrRoad	1001	/22
